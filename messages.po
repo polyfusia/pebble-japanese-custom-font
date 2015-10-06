@@ -1,0 +1,627 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.5\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "%A %b %d"
+msgstr "%A %b %d"
+
+msgid "%B %e"
+msgstr "%B %e"
+
+msgid "%H:%M:%S"
+msgstr "%H:%M:%S"
+
+msgid "%a %b %e %H:%M:%S %Y"
+msgstr "%a %b %e %H:%M:%S %Y"
+
+msgid "%a %b %e %H:%M:%S %Z %Y"
+msgstr "%a %b %e %H:%M:%S %Z %Y"
+
+msgid "%d minute(s)"
+msgstr "%d minute(s)"
+
+msgid "%d%% remaining"
+msgstr "%d%% remaining"
+
+msgid "%lu hours ago"
+msgstr "%lu hours ago"
+
+msgid "%lu minutes ago"
+msgstr "%lu minutes ago"
+
+msgid "%m/%d/%y"
+msgstr "%m/%d/%y"
+
+msgid ""
+"%s crashed!\n"
+"%.20s"
+msgstr ""
+"%s crashed!\n"
+"%.20s"
+
+msgid "%u Paired Phone%c"
+msgstr "%u Paired Phone%c"
+
+msgid "12h"
+msgstr "12h"
+
+msgid "24h"
+msgstr "24h"
+
+msgid "<Unknown>"
+msgstr "<Unknown>"
+
+msgid "A minute ago"
+msgstr "A minute ago"
+
+msgid "About"
+msgstr "About"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Activity"
+msgstr "Activity"
+
+msgid "Activity Tracker"
+msgstr "Activity Tracker"
+
+msgid "Airplane Mode"
+msgstr "Airplane Mode"
+
+msgid "Alarm"
+msgstr "Alarm"
+
+msgid "Alarms"
+msgstr "Alarms"
+
+msgid "Ambient Controlled"
+msgstr "Ambient Controlled"
+
+msgid "An hour ago"
+msgstr "An hour ago"
+
+msgid "App"
+msgstr "App"
+
+msgid "Apps Only"
+msgstr "Apps Only"
+
+msgid "Apr"
+msgstr "Apr"
+
+msgid "April"
+msgstr "April"
+
+msgid "Aug"
+msgstr "Aug"
+
+msgid "August"
+msgstr "August"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "BT Address"
+msgstr "BT Address"
+
+msgid "Backlight"
+msgstr "Backlight"
+
+msgid "Battery Low"
+msgstr "Battery Low"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Bluetooth OFF"
+msgstr "Bluetooth OFF"
+
+msgid "Bluetooth ON"
+msgstr "Bluetooth ON"
+
+msgid "Bootloader"
+msgstr "Bootloader"
+
+msgid "Call Ended"
+msgstr "Call Ended"
+
+msgid "Calling..."
+msgstr "Calling..."
+
+msgid ""
+"Cancel\n"
+"Update?"
+msgstr ""
+"Cancel\n"
+"Update?"
+
+msgid "Cancel Update?"
+msgstr "Cancel Update?"
+
+msgid "Canceling Call"
+msgstr "Canceling Call"
+
+msgid "Classic Analog"
+msgstr "Classic Analog"
+
+msgid "Clear History"
+msgstr "Clear History"
+
+msgid "Clear all notification history?"
+msgstr "Clear all notification history?"
+
+msgid "Connected"
+msgstr "Connected"
+
+msgid "DOWN"
+msgstr "DOWN"
+
+msgid "DOWN shortcut disabled"
+msgstr "DOWN shortcut disabled"
+
+msgid "DOWN shortcut set"
+msgstr "DOWN shortcut set"
+
+msgid "Date & Time"
+msgstr "Date & Time"
+
+msgid "Day"
+msgstr "Day"
+
+msgid "Dec"
+msgstr "Dec"
+
+msgid "December"
+msgstr "December"
+
+msgid "Declining Call"
+msgstr "Declining Call"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Disable"
+msgstr "Disable"
+
+msgid "Disable Airplane Mode to connect"
+msgstr "Disable Airplane Mode to connect"
+
+msgid "Disabled"
+msgstr "Disabled"
+
+msgid "Disabled (Plugged In)"
+msgstr "Disabled (Plugged In)"
+
+msgid "Disabling..."
+msgstr "Disabling..."
+
+msgid "Disconnected"
+msgstr "Disconnected"
+
+msgid "Display"
+msgstr "Display"
+
+msgid "Do Not Disturb"
+msgstr "Do Not Disturb"
+
+msgid "Down Button"
+msgstr "Down Button"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Edit Alarm"
+msgstr "Edit Alarm"
+
+msgid "Enable"
+msgstr "Enable"
+
+msgid "Enabled"
+msgstr "Enabled"
+
+msgid "Enabling..."
+msgstr "Enabling..."
+
+msgid "Factory Reset"
+msgstr "Factory Reset"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "February"
+msgstr "February"
+
+msgid "Firmware"
+msgstr "Firmware"
+
+msgid "Firmware Update"
+msgstr "Firmware Update"
+
+msgid "Font Size"
+msgstr "Font Size"
+
+msgid "Forget"
+msgstr "Forget"
+
+msgid "Fri"
+msgstr "Fri"
+
+msgid "Friday"
+msgstr "Friday"
+
+msgid "Getting Started"
+msgstr "Getting Started"
+
+msgid "Golf"
+msgstr "Golf"
+
+msgid "Hardware"
+msgstr "Hardware"
+
+msgid "Hole"
+msgstr "Hole"
+
+msgid "Incoming Call"
+msgstr "Incoming Call"
+
+msgid "Install Pebble App"
+msgstr "Install Pebble App"
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "January"
+msgstr "January"
+
+msgid "Jul"
+msgstr "Jul"
+
+msgid "July"
+msgstr "July"
+
+msgid "Jun"
+msgstr "Jun"
+
+msgid "June"
+msgstr "June"
+
+msgid "Just now"
+msgstr "Just now"
+
+msgid "LE Only"
+msgstr "LE Only"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Large"
+msgstr "Large"
+
+msgid "Last Warning"
+msgstr "Last Warning"
+
+msgid "Legal"
+msgstr "Legal"
+
+msgid "Long press %s from any watchface to open %s"
+msgstr "Long press %s from any watchface to open %s"
+
+msgid "Mar"
+msgstr "Mar"
+
+msgid "March"
+msgstr "March"
+
+msgid "May"
+msgstr "May"
+
+msgid "Missed Call"
+msgstr "Missed Call"
+
+msgid "Mon"
+msgstr "Mon"
+
+msgid "Monday"
+msgstr "Monday"
+
+msgid "Month"
+msgstr "Month"
+
+msgid "Motion"
+msgstr "Motion"
+
+msgid "Music"
+msgstr "Music"
+
+msgid "New Alarm"
+msgstr "New Alarm"
+
+msgid "No Activity Trackers are installed"
+msgstr "No Activity Trackers are installed"
+
+msgid "No Caller ID"
+msgstr "No Caller ID"
+
+msgid "No LE"
+msgstr "No LE"
+
+msgid "No Music Found"
+msgstr "No Music Found"
+
+msgid "No Phone Connection"
+msgstr "No Phone Connection"
+
+msgid "No notifications."
+msgstr "No notifications."
+
+msgid "Notifications"
+msgstr "Notifications"
+
+msgid "Notifications Off"
+msgstr "Notifications Off"
+
+msgid "Notifications On"
+msgstr "Notifications On"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "November"
+msgstr "November"
+
+msgid "Now Discoverable"
+msgstr "Now Discoverable"
+
+msgid "OFF"
+msgstr "OFF"
+
+msgid "ON"
+msgstr "ON"
+
+msgid "Oct"
+msgstr "Oct"
+
+msgid "October"
+msgstr "October"
+
+msgid "Off"
+msgstr "Off"
+
+msgid "Open the Pebble app on your phone to connect"
+msgstr "Open the Pebble app on your phone to connect"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "PACE"
+msgstr "PACE"
+
+msgid "Pair with %s?"
+msgstr "Pair with %s?"
+
+msgid "Pairing Instructions"
+msgstr "Pairing Instructions"
+
+msgid "Panic App"
+msgstr "Panic App"
+
+msgid "Par"
+msgstr "Par"
+
+msgid "Phone Calls Only"
+msgstr "Phone Calls Only"
+
+msgid "Press any button"
+msgstr "Press any button"
+
+msgid "Quick Launch"
+msgstr "Quick Launch"
+
+msgid "Ready for Update"
+msgstr "Ready for Update"
+
+msgid "Recovery"
+msgstr "Recovery"
+
+msgid ""
+"Remember to also forget your Pebble's Bluetooth connection from your mobile "
+"device"
+msgstr ""
+"Remember to also forget your Pebble's Bluetooth connection from your mobile "
+"device"
+
+msgid ""
+"Remember to also forget your Pebble's Bluetooth connection from your phone"
+msgstr ""
+"Remember to also forget your Pebble's Bluetooth connection from your phone"
+
+msgid "Reset to factory settings?"
+msgstr "Reset to factory settings?"
+
+msgid "Resetting..."
+msgstr "Resetting..."
+
+msgid "Ringing..."
+msgstr "Ringing..."
+
+msgid "SPEED"
+msgstr "SPEED"
+
+msgid "Sat"
+msgstr "Sat"
+
+msgid "Saturday"
+msgstr "Saturday"
+
+msgid "Select an App"
+msgstr "Select an App"
+
+msgid "Selected"
+msgstr "Selected"
+
+msgid "Sep"
+msgstr "Sep"
+
+msgid "September"
+msgstr "September"
+
+msgid "Serial"
+msgstr "Serial"
+
+msgid "Set App"
+msgstr "Set App"
+
+msgid "Set Date"
+msgstr "Set Date"
+
+msgid "Set Now"
+msgstr "Set Now"
+
+msgid "Set Schedule"
+msgstr "Set Schedule"
+
+msgid "Set Time"
+msgstr "Set Time"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Shake to light"
+msgstr "Shake to light"
+
+msgid "Shortcut not set"
+msgstr "Shortcut not set"
+
+msgid "Shut Down"
+msgstr "Shut Down"
+
+msgid "Simplicity"
+msgstr "Simplicity"
+
+msgid "Small"
+msgstr "Small"
+
+msgid "Snooze Delay"
+msgstr "Snooze Delay"
+
+msgid "Sports"
+msgstr "Sports"
+
+msgid "Sun"
+msgstr "Sun"
+
+msgid "Sunday"
+msgstr "Sunday"
+
+msgid "Texts Only"
+msgstr "Texts Only"
+
+msgid "This shortcut can be enabled from the settings menu"
+msgstr "This shortcut can be enabled from the settings menu"
+
+msgid "Thu"
+msgstr "Thu"
+
+msgid "Thursday"
+msgstr "Thursday"
+
+msgid "Time Display"
+msgstr "Time Display"
+
+msgid "Tue"
+msgstr "Tue"
+
+msgid "Tuesday"
+msgstr "Tuesday"
+
+msgid "UP"
+msgstr "UP"
+
+msgid "UP shortcut disabled"
+msgstr "UP shortcut disabled"
+
+msgid "UP shortcut set"
+msgstr "UP shortcut set"
+
+msgid "Unknown"
+msgstr "Unknown"
+
+msgid "Up Button"
+msgstr "Up Button"
+
+msgid "Updating..."
+msgstr "Updating..."
+
+msgid "Uptime"
+msgstr "Uptime"
+
+msgid "Use %s instead of %s for activity tracking?"
+msgstr "Use %s instead of %s for activity tracking?"
+
+msgid "Vibration"
+msgstr "Vibration"
+
+msgid "Watchfaces"
+msgstr "Watchfaces"
+
+msgid "Wed"
+msgstr "Wed"
+
+msgid "Wednesday"
+msgstr "Wednesday"
+
+msgid "Welcome UI"
+msgstr "Welcome UI"
+
+msgid "Welcome!"
+msgstr "Welcome!"
+
+msgid "Worker"
+msgstr "Worker"
+
+msgid "Would you like to set the DOWN shortcut?"
+msgstr "Would you like to set the DOWN shortcut?"
+
+msgid "Would you like to set the UP shortcut?"
+msgstr "Would you like to set the UP shortcut?"
+
+msgid "Year"
+msgstr "Year"
+
+msgid "You just updated your Pebble to version %s!"
+msgstr "You just updated your Pebble to version %s!"
+
+msgid "Your Pebble is up to date!"
+msgstr "Your Pebble is up to date!"
+
+msgid "km"
+msgstr "km"
+
+msgid "km/h"
+msgstr "km/h"
+
+msgid "md"
+msgstr "md"
+
+msgid "mi"
+msgstr "mi"
+
+msgid "mi/h"
+msgstr "mi/h"
+
+msgid "min/km"
+msgstr "min/km"
+
+msgid "min/mi"
+msgstr "min/mi"
