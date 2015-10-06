@@ -12,9 +12,9 @@ To make custom language pack, need Pebble Firmware Utils.
 
 - https://github.com/xndcn/pebble-firmware-utils
 
-also, need custom fontgen.py by yuanchao.
+also, need custom fontgen.py by medicalwei.
 
-- https://gist.github.com/yuanchao/c6a00e3ac8253ddcfe54
+- https://gist.github.com/medicalwei/c9fdcd9ec19b0c363ec1
 
 ## reference and thanks!!
 
