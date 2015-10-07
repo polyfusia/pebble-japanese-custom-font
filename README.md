@@ -48,3 +48,8 @@ $ python pbpack_tool.py pack pbl/NotoSans-ja_JP.pbl custom_font/*
 - http://www.ekesete.net/log/?p=7972
 - http://blog.kuro.ro/pebble-time-chinese-japanese-language-pack/
 - https://drive.google.com/folderview?id=0B3XsaTcJZ4A3fmNWUVFmTEpzb2lHODkwR0t4ajU2SjlHSktEYVhZdzhXLTJhdjhzZ0Y1OHc#
+
+## Contact
+
+- twitter
+ - https://twitter.com/polyfusia
