@@ -1,4 +1,6 @@
-# Pebble japanese custom font
+# Unofficial japanese language pack for Pebble Time
+
+** NOTICE: this language pack is unofficial and  no warranty. **
 
 Font set generated from Google Noto Sans CJK JP thin weight (Apache Licence).
 
